@@ -10,8 +10,17 @@
           <option name="url" value="http://47.100.210.216:247" />
           <option name="userName" value="jy@gixon.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://jy@gixon.com@47.100.210.216:247/scm/git/parts360" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://47.100.210.216:247/scm/git/parts360" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="E:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
