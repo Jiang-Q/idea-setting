@@ -5,6 +5,7 @@
       <mapping pattern="fdsafds" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="dfsadsa" type="PLAIN_TEXT" />
+      <mapping ext="sp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
