@@ -34,6 +34,10 @@
           <option name="url" value="http://192.168.100.200/gsft/cps-dmms.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.100.200/gsft/cps-dmms" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\" />
