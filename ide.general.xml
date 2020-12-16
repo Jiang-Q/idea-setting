@@ -7,5 +7,6 @@
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="ide.images.show.chessboard" value="true" />
   </component>
 </application>
