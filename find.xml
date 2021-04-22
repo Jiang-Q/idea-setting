@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'parts360-search'" />
-    <option name="defaultScopeName" value="Module 'parts360-search'" />
+    <option name="customScope" value="Directory '...\parts360-search\src\main\java\cn\parts360\search [parts360-search]'" />
+    <option name="defaultScopeName" value="Directory '...\parts360-search\src\main\java\cn\parts360\search [parts360-search]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'parts360-search'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\parts360-search\src\main\java\cn\parts360\search [parts360-search]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
