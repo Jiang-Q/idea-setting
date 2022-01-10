@@ -1,6 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*.classpath;*.gitignore;*.idea;*.iml;*.log;*.mvn;*.project;*.pyc;*.pyo;*.rbc;*.resourceCache;*.settings;*.yarb;*~;.DS_Store;.flattened-pom.xml;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.classpath;*.gitignore;*.idea;*.iml;*.log;*.mvn;*.project;*.pyc;*.pyo;*.rbc;*.resourceCache;*.settings;*.yarb;*~;.DS_Store;.flattened-pom.xml;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="text" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
