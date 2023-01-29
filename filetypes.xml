@@ -3,6 +3,7 @@
     <ignoreFiles list="*.classpath;*.gitignore;*.idea;*.iml;*.log;*.mvn;*.project;*.pyc;*.pyo;*.rbc;*.resourceCache;*.settings;*.yarb;*~;.DS_Store;.flattened-pom.xml;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="去重代码" type="AUTO_DETECTED" />
+      <mapping pattern="车型去重代码" type="AUTO_DETECTED" />
       <mapping pattern="text" type="AUTO_DETECTED" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
